@@ -1,0 +1,11 @@
+C:\Course Material\UW\Courses\C# Prog .NET Core\Lessons\Lesson 02 - Classes\Assn 02\Ex 2.1 Purchase Price\bin\Debug\netcoreapp2.1\Ex 2.1 Purchase Price.deps.json
+C:\Course Material\UW\Courses\C# Prog .NET Core\Lessons\Lesson 02 - Classes\Assn 02\Ex 2.1 Purchase Price\bin\Debug\netcoreapp2.1\Ex 2.1 Purchase Price.runtimeconfig.json
+C:\Course Material\UW\Courses\C# Prog .NET Core\Lessons\Lesson 02 - Classes\Assn 02\Ex 2.1 Purchase Price\bin\Debug\netcoreapp2.1\Ex 2.1 Purchase Price.runtimeconfig.dev.json
+C:\Course Material\UW\Courses\C# Prog .NET Core\Lessons\Lesson 02 - Classes\Assn 02\Ex 2.1 Purchase Price\bin\Debug\netcoreapp2.1\Ex 2.1 Purchase Price.dll
+C:\Course Material\UW\Courses\C# Prog .NET Core\Lessons\Lesson 02 - Classes\Assn 02\Ex 2.1 Purchase Price\bin\Debug\netcoreapp2.1\Ex 2.1 Purchase Price.pdb
+C:\Course Material\UW\Courses\C# Prog .NET Core\Lessons\Lesson 02 - Classes\Assn 02\Ex 2.1 Purchase Price\obj\Debug\netcoreapp2.1\Ex 2.1 Purchase Price.csprojAssemblyReference.cache
+C:\Course Material\UW\Courses\C# Prog .NET Core\Lessons\Lesson 02 - Classes\Assn 02\Ex 2.1 Purchase Price\obj\Debug\netcoreapp2.1\Ex 2.1 Purchase Price.csproj.CoreCompileInputs.cache
+C:\Course Material\UW\Courses\C# Prog .NET Core\Lessons\Lesson 02 - Classes\Assn 02\Ex 2.1 Purchase Price\obj\Debug\netcoreapp2.1\Ex 2.1 Purchase Price.AssemblyInfoInputs.cache
+C:\Course Material\UW\Courses\C# Prog .NET Core\Lessons\Lesson 02 - Classes\Assn 02\Ex 2.1 Purchase Price\obj\Debug\netcoreapp2.1\Ex 2.1 Purchase Price.AssemblyInfo.cs
+C:\Course Material\UW\Courses\C# Prog .NET Core\Lessons\Lesson 02 - Classes\Assn 02\Ex 2.1 Purchase Price\obj\Debug\netcoreapp2.1\Ex 2.1 Purchase Price.dll
+C:\Course Material\UW\Courses\C# Prog .NET Core\Lessons\Lesson 02 - Classes\Assn 02\Ex 2.1 Purchase Price\obj\Debug\netcoreapp2.1\Ex 2.1 Purchase Price.pdb

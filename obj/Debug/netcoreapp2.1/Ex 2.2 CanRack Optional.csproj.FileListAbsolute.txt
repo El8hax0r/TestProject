@@ -1,0 +1,10 @@
+C:\Course Material\UW\Courses\C# Prog .NET Core\Lessons\Lesson 02 - Classes\Assn 02\Ex 2.2 CanRack Optional\bin\Debug\netcoreapp2.1\Ex 2.2 CanRack Optional.deps.json
+C:\Course Material\UW\Courses\C# Prog .NET Core\Lessons\Lesson 02 - Classes\Assn 02\Ex 2.2 CanRack Optional\bin\Debug\netcoreapp2.1\Ex 2.2 CanRack Optional.runtimeconfig.json
+C:\Course Material\UW\Courses\C# Prog .NET Core\Lessons\Lesson 02 - Classes\Assn 02\Ex 2.2 CanRack Optional\bin\Debug\netcoreapp2.1\Ex 2.2 CanRack Optional.runtimeconfig.dev.json
+C:\Course Material\UW\Courses\C# Prog .NET Core\Lessons\Lesson 02 - Classes\Assn 02\Ex 2.2 CanRack Optional\bin\Debug\netcoreapp2.1\Ex 2.2 CanRack Optional.dll
+C:\Course Material\UW\Courses\C# Prog .NET Core\Lessons\Lesson 02 - Classes\Assn 02\Ex 2.2 CanRack Optional\bin\Debug\netcoreapp2.1\Ex 2.2 CanRack Optional.pdb
+C:\Course Material\UW\Courses\C# Prog .NET Core\Lessons\Lesson 02 - Classes\Assn 02\Ex 2.2 CanRack Optional\obj\Debug\netcoreapp2.1\Ex 2.2 CanRack Optional.csproj.CoreCompileInputs.cache
+C:\Course Material\UW\Courses\C# Prog .NET Core\Lessons\Lesson 02 - Classes\Assn 02\Ex 2.2 CanRack Optional\obj\Debug\netcoreapp2.1\Ex 2.2 CanRack Optional.AssemblyInfoInputs.cache
+C:\Course Material\UW\Courses\C# Prog .NET Core\Lessons\Lesson 02 - Classes\Assn 02\Ex 2.2 CanRack Optional\obj\Debug\netcoreapp2.1\Ex 2.2 CanRack Optional.AssemblyInfo.cs
+C:\Course Material\UW\Courses\C# Prog .NET Core\Lessons\Lesson 02 - Classes\Assn 02\Ex 2.2 CanRack Optional\obj\Debug\netcoreapp2.1\Ex 2.2 CanRack Optional.dll
+C:\Course Material\UW\Courses\C# Prog .NET Core\Lessons\Lesson 02 - Classes\Assn 02\Ex 2.2 CanRack Optional\obj\Debug\netcoreapp2.1\Ex 2.2 CanRack Optional.pdb
